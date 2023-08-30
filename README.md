@@ -2,7 +2,7 @@
 
 
 
-[PORTFOLIO LINK](https://portfolio-ggvhs.netlify.app)
+[PORTFOLIO LINK](https://ggvhs-portfolio.netlify.app/)
 
 
 
